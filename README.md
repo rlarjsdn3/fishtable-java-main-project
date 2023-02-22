@@ -1,5 +1,5 @@
-# 건국대학교 전공과목 DB 텀프로젝트
-
+# KKU Database TermProject
+## Overview
 **작품명** 물고기 DB 시스템 <br>
 **플랫폼** `macOS` <br>
 **게시일**  2022년 6월 14일(화) <br>
